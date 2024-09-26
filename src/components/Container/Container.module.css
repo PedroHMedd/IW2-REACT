@@ -1,0 +1,9 @@
+.container {
+    min-height: 90vh; 
+    padding-bottom: 1.5rem; 
+    background-color: #191919;
+    padding-inline: 1.5rem; 
+    color: #fff;
+    text-align: center;
+    overflow: hidden;
+} 
